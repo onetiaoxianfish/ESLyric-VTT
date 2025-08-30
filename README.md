@@ -1,6 +1,8 @@
 ### VTT Lyrics Parser for ESLyric
 
-将vtt字幕转为lrc
+通过ESLyric插件 增加将vtt字幕转为lrc脚本
+将vttrc.js文件放置在 footbar程序目录\profile\eslyric-data\scripts\parser
+如果没有eslyric-data 则是缺少插件，需要自行解决
 
 
 
